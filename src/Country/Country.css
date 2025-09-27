@@ -1,0 +1,10 @@
+.counter{
+    border: 2px solid tomato;
+    padding: 2dvh;
+    margin: 20px;
+    border-radius: 20px;
+
+}
+.visited{
+    background-color:chocolate;
+}
